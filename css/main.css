@@ -26,6 +26,10 @@ h1 {
   background-color: #eee8d5;
 }
 
+.dfnn {
+  background-color: #b58900;
+}
+
 #contents {
   color: #93a1a1;
 }
@@ -42,10 +46,34 @@ h1 {
   color: #93a1a1;
 }
 
-.dfn {
-  background-color: #b58900;
-}
-
 p + strong {
   color: #fff;
+}
+
+mark {
+  background-color: #719e07;
+}
+
+a[rel="external"] {
+  background-color: #2694d8;
+}
+
+.rasp {
+  color: #719e47;
+}
+
+.blue {
+  color: #2aa198;
+}
+
+.a{
+  background-color: #657ba3;
+}
+
+.b{
+  background-color: #586e75;
+}
+
+.c{
+  background-color: #d04b16;
 }
